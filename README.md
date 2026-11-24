@@ -1,5 +1,3 @@
-<!-- Profile README for Anas Ltaief. Create a repo named exactly like your GitHub username (AnasLtaief), add this as README.md. -->
-
 <p align="center">
   <img src="banner.svg" width="100%" alt="Anas Ltaief"/>
 </p>
@@ -46,7 +44,7 @@ class Anas:
 Third-year Computer & Multimedia student and aspiring cybersecurity, network and cloud engineer. I lead the IEEE SESAME Student Branch as Chairman, build full-stack web platforms, and design enterprise networks with Cisco tools. I like turning ideas into working systems and learning how they can be secured.
 
 - 🔭 **Currently:** Chairman of IEEE SESAME Student Branch • Webmaster of IEEE RAS SESAME Chapter
-- 🌱 **Learning:** RAG agents & LLM fine-tuning (NVIDIA DLI), networking, cloud
+- 🌱 **Learning:** Prompt engineering, RAG agents & LLM fine-tuning (NVIDIA DLI), networking, cloud
 - 🛰️ **Interests:** Cybersecurity, network engineering, cloud, full-stack development, AI agents
 - 🎓 **Studying:** Bachelor's in Computer & Multimedia @ SESAME University (2024 – 2027)
 - 🤝 **Open to:** PFE 2027 internship, collaborations, open-source projects
@@ -98,6 +96,7 @@ Third-year Computer & Multimedia student and aspiring cybersecurity, network and
 
 | Course | Provider | Format | Status |
 | ------ | -------- | ------ | ------ |
+| Building LLM Applications With Prompt Engineering | NVIDIA Deep Learning Institute | Instructor-led, 8 hours | Enrolled |
 | Building RAG Agents with LLMs | NVIDIA Deep Learning Institute | Self-paced, 8 hours | In progress |
 | Adding New Knowledge to LLMs | NVIDIA Deep Learning Institute | Self-paced, 8 hours | In progress |
 
@@ -148,7 +147,7 @@ Third-year Computer & Multimedia student and aspiring cybersecurity, network and
 | **C Essentials 1** | Cisco | Jun 2025 | C programming, control flow, functions, debugging |
 | **Python Essentials 1** | Cisco | Jun 2025 | Python, data types, loops, functions, lists |
 
-**In progress:** Building RAG Agents with LLMs • Adding New Knowledge to LLMs (NVIDIA Deep Learning Institute)
+**In progress:** Building LLM Applications With Prompt Engineering • Building RAG Agents with LLMs • Adding New Knowledge to LLMs (NVIDIA Deep Learning Institute)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
