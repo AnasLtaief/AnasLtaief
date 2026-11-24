@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00BFFF&height=220&section=header&text=Anas%20Ltaief&fontColor=00BFFF&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%3E%20Computer%20%26%20Multimedia%20Student%20@%20SESAME%20//%20Aspiring%20Cybersecurity%20Engineer&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00BFFF&height=220&section=header&text=Anas%20Ltaief&fontColor=00BFFF&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%3E%20Computer%20and%20Multimedia%20Student%20at%20SESAME%20//%20Aspiring%20Cybersecurity%20Engineer&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
   <a href="https://www.linkedin.com/in/anas-ltaief/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/></a>
   <a href="https://www.instagram.com/anas_ltaief/"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00BFFF"/></a>
   <a href="mailto:anas_ltaief@computer.org"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00BFFF"/></a>
-  <a href="https://www.facebook.com/AnasLtaief2/"><img src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=00BFFF"/></a>
+  <a href="https://www.facebook.com/AnasLtaief2/"><img src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=0A0A0A"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
