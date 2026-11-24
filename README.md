@@ -87,6 +87,9 @@ Third-year Computer & Multimedia student and aspiring cybersecurity, network and
 | Bachelor's, Computer & Multimedia | SESAME University | El Ghazela, Ariana | Sep 2024 – Jun 2027 | In Progress | Web & Mobile Development, UI/UX Design & Multimedia |
 | Bac in Computer Science | Salem Boumhel High School | Boumhel El Bassatine | Sep 2023 – Jul 2024 | Graduated | Computer Science, IT |
 
+- `[+]` Highlights: Chairman of IEEE SESAME Student Branch, Webmaster of IEEE RAS Chapter, IEEE Xtreme 19.0 participant
+- `[+]` Languages: Arabic (Native), English (B2), French (B2)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF3131&center=true&vCenter=true&width=424&height=50&lines=%7B+Online+Courses+%7D" alt="Online Courses"/>
 </p>
