@@ -1,5 +1,7 @@
+<!-- Profile README for Anas Ltaief. Create a repo named exactly like your GitHub username (AnasLtaief), add this as README.md. -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:4a0e0e,100:FF3131&height=220&section=header&text=Anas%20Ltaief&fontColor=FF3131&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%3E%20Computer%20and%20Multimedia%20Student%20at%20SESAME%20//%20Aspiring%20Cybersecurity%20Engineer&descAlignY=60&descSize=16" width="100%"/>
+  <img src="banner.svg" width="100%" alt="Anas Ltaief"/>
 </p>
 
 <p align="center">
@@ -195,5 +197,5 @@ Third-year Computer & Multimedia student and aspiring cybersecurity, network and
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3131,50:4a0e0e,100:1a0000&height=140&section=footer"/>
+  <img src="footer.svg" width="100%" alt=""/>
 </p>
