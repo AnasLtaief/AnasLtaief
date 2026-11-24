@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anas-ltaief/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF3131"/></a>
-  <a href="https://www.instagram.com/anas_ltaief/"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF3131"/></a>
-  <a href="mailto:anas_ltaief@computer.org,anas.ltaief@sesame.com.tn"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3131"/></a>
-  <a href="https://www.facebook.com/anasltaief2/"><img src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&v=2"/></a>
+  <a href="https://www.linkedin.com/in/anas-ltaief/"><img src="badge-linkedin.svg" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/anas_ltaief/"><img src="badge-instagram.svg" alt="instagram"/></a>
+  <a href="mailto:anas_ltaief@computer.org,anas.ltaief@sesame.com.tn"><img src="badge-email.svg" alt="email"/></a>
+  <a href="https://www.facebook.com/anasltaief2/"><img src="badge-facebook.svg" alt="facebook"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -60,23 +60,23 @@ Third-year Computer & Multimedia student and aspiring cybersecurity, network and
 
 **`[ LANGUAGES ]`**
 
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FF3131) ![C#](https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=FF3131) ![C++](https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=FF3131) ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=FF3131) ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=FF3131) ![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=FF3131) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FF3131) ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logoColor=FF3131)
+<img src="skills-languages.svg" alt="Languages"/>
 
 **`[ FRAMEWORKS & LIBRARIES ]`**
 
-![Django](https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=FF3131) ![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF3131) ![.NET](https://img.shields.io/badge/.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FF3131) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=FF3131) ![React.js](https://img.shields.io/badge/React.js-0A0A0A?style=for-the-badge&logo=react&logoColor=FF3131) ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=FF3131) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=FF3131) ![PyQt / PySide](https://img.shields.io/badge/PyQt%20%2F%20PySide-0A0A0A?style=for-the-badge&logo=qt&logoColor=FF3131)
+<img src="skills-frameworks.svg" alt="Frameworks and libraries"/>
 
 **`[ DATABASES & BI ]`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FF3131) ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=FF3131) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0A0A0A?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF3131) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=FF3131) ![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=FF3131) ![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=FF3131) ![Oracle](https://img.shields.io/badge/Oracle-0A0A0A?style=for-the-badge&logo=oracle&logoColor=FF3131) ![Power BI](https://img.shields.io/badge/Power%20BI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=FF3131)
+<img src="skills-databases.svg" alt="Databases and BI"/>
 
 **`[ NETWORKING & SECURITY ]`**
 
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FF3131) ![Windows](https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=FF3131) ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-0A0A0A?style=for-the-badge&logo=cisco&logoColor=FF3131) ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0A0A0A?style=for-the-badge&logo=cisco&logoColor=FF3131) ![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=FF3131) ![OSPF](https://img.shields.io/badge/OSPF-0A0A0A?style=for-the-badge&logoColor=FF3131) ![RIPv2](https://img.shields.io/badge/RIPv2-0A0A0A?style=for-the-badge&logoColor=FF3131) ![VLANs](https://img.shields.io/badge/VLANs-0A0A0A?style=for-the-badge&logoColor=FF3131) ![NAT / PAT](https://img.shields.io/badge/NAT%20%2F%20PAT-0A0A0A?style=for-the-badge&logoColor=FF3131) ![ACLs](https://img.shields.io/badge/ACLs-0A0A0A?style=for-the-badge&logoColor=FF3131)
+<img src="skills-networking.svg" alt="Networking and security"/>
 
 **`[ DEVOPS, TOOLS & AUTOMATION ]`**
 
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FF3131) ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FF3131) ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF3131) ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF3131) ![Swagger](https://img.shields.io/badge/Swagger-0A0A0A?style=for-the-badge&logo=swagger&logoColor=FF3131) ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=FF3131) ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=FF3131) ![WordPress](https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=FF3131)
+<img src="skills-devops.svg" alt="DevOps, tools and automation"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -192,8 +192,8 @@ Third-year Computer & Multimedia student and aspiring cybersecurity, network and
 <p align="center"><b><code>&gt;</code> Open to PFE 2027 opportunities & collaborations — let's connect.</b></p>
 
 <p align="center">
-  <a href="mailto:anas_ltaief@computer.org,anas.ltaief@sesame.com.tn"><img src="https://img.shields.io/badge/Reach%20out-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF3131"/></a>
-  <a href="https://www.linkedin.com/in/anas-ltaief/"><img src="https://img.shields.io/badge/Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF3131"/></a>
+  <a href="mailto:anas_ltaief@computer.org,anas.ltaief@sesame.com.tn"><img src="badge-reachout.svg" alt="reachout"/></a>
+  <a href="https://www.linkedin.com/in/anas-ltaief/"><img src="badge-connect.svg" alt="connect"/></a>
 </p>
 
 <p align="center">

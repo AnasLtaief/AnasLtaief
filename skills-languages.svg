@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 575 30" width="575" height="30" role="img">
+  <rect x="0.0" y="0" width="81.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="0.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="42.6" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">PYTHON</text>
+  <rect x="89.2" y="0" width="48.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="89.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="115.4" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">C#</text>
+  <rect x="145.6" y="0" width="56.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="145.6" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="175.9" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">C++</text>
+  <rect x="210.2" y="0" width="40.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="210.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="232.3" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">C</text>
+  <rect x="258.4" y="0" width="64.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="258.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="292.8" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">JAVA</text>
+  <rect x="331.2" y="0" width="56.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="331.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="361.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">PHP</text>
+  <rect x="395.8" y="0" width="114.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="395.8" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="454.8" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">JAVASCRIPT</text>
+  <rect x="517.8" y="0" width="56.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="517.8" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="548.1" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">SQL</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 30" width="805" height="30" role="img">
+  <rect x="0.0" y="0" width="114.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="0.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="59.0" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">POSTGRESQL</text>
+  <rect x="122.0" y="0" width="73.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="122.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="160.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">MYSQL</text>
+  <rect x="203.0" y="0" width="114.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="203.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="262.0" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">SQL SERVER</text>
+  <rect x="325.0" y="0" width="89.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="325.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="371.7" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">MONGODB</text>
+  <rect x="422.4" y="0" width="97.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="422.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="473.2" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">SUPABASE</text>
+  <rect x="528.0" y="0" width="81.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="528.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="570.6" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">SQLITE</text>
+  <rect x="617.2" y="0" width="81.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="617.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="659.8" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">ORACLE</text>
+  <rect x="706.4" y="0" width="97.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="706.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="757.2" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">POWER BI</text>
+</svg>

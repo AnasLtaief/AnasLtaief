@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 30" width="690" height="30" role="img">
+  <rect x="0.0" y="0" width="81.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="0.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="42.6" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">DOCKER</text>
+  <rect x="89.2" y="0" width="56.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="89.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="119.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">GIT</text>
+  <rect x="153.8" y="0" width="81.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="153.8" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="196.4" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">GITHUB</text>
+  <rect x="243.0" y="0" width="89.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="243.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="289.7" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">POSTMAN</text>
+  <rect x="340.4" y="0" width="89.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="340.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="387.1" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">SWAGGER</text>
+  <rect x="437.8" y="0" width="56.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="437.8" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="468.1" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">N8N</text>
+  <rect x="502.4" y="0" width="73.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="502.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="540.9" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">FIGMA</text>
+  <rect x="583.4" y="0" width="105.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="583.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="638.3" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">WORDPRESS</text>
+</svg>

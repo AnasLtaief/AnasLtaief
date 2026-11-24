@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 68" width="780" height="68" role="img">
+  <rect x="0.0" y="0" width="73.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="0.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="38.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">LINUX</text>
+  <rect x="81.0" y="0" width="89.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="81.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="127.7" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">WINDOWS</text>
+  <rect x="178.4" y="0" width="105.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="178.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="233.3" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">CISCO IOS</text>
+  <rect x="292.2" y="0" width="138.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="292.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="363.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">PACKET TRACER</text>
+  <rect x="438.8" y="0" width="105.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="438.8" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="493.7" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">WIRESHARK</text>
+  <rect x="552.6" y="0" width="64.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="552.6" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="587.0" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">OSPF</text>
+  <rect x="625.4" y="0" width="73.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="625.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="663.9" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">RIPV2</text>
+  <rect x="706.4" y="0" width="73.0" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="706.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="744.9" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">VLANS</text>
+  <rect x="0.0" y="38" width="105.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="0.0" y="38" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="54.9" y="57.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">NAT / PAT</text>
+  <rect x="113.8" y="38" width="64.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="113.8" y="38" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="148.2" y="57.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">ACLS</text>
+</svg>

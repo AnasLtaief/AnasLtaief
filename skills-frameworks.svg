@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 845 30" width="845" height="30" role="img">
+  <rect x="0.0" y="0" width="81.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="0.0" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="42.6" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">DJANGO</text>
+  <rect x="89.2" y="0" width="89.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="89.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="135.9" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">LARAVEL</text>
+  <rect x="186.6" y="0" width="64.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="186.6" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="221.0" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">.NET</text>
+  <rect x="259.4" y="0" width="122.2" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="259.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="322.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">SPRING BOOT</text>
+  <rect x="389.6" y="0" width="97.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="389.6" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="440.4" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">REACT.JS</text>
+  <rect x="495.2" y="0" width="89.4" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="495.2" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="541.9" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">FASTAPI</text>
+  <rect x="592.6" y="0" width="105.8" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="592.6" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="647.5" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">BOOTSTRAP</text>
+  <rect x="706.4" y="0" width="138.6" height="30" rx="4" fill="#0a0a0a"/>
+  <rect x="706.4" y="0" width="4" height="30" rx="2" fill="#ff3131"/>
+  <text x="777.7" y="19.2" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#ffffff">PYQT / PYSIDE</text>
+</svg>
