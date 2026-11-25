@@ -1,3 +1,5 @@
+<!-- Profile README for Anas Ltaief. Create a repo named exactly like your GitHub username (AnasLtaief), add this as README.md. -->
+
 <p align="center">
   <img src="banner.svg" width="100%" alt="Anas Ltaief"/>
 </p>
@@ -25,7 +27,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF3131&center=true&vCenter=true&width=268&height=50&lines=%7B+About+Me+%7D" alt="About Me"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" align="right">
+<img src="skills-animation.svg" width="150" align="right" alt="Skills">
 
 ```python
 class Anas:
